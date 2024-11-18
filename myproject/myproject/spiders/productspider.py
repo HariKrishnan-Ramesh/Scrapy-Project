@@ -12,8 +12,8 @@ class ProductSpider(scrapy.Spider):
                 property_id : "",
                 purpose : "",
                 type : "",
-                added_on : "22 April 2021",
-                furnishing: "Unfurnished",
+                added_on : "",
+                furnishing: "",
                 price: {
                     currency : "",
                     amount: ""
