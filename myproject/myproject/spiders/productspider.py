@@ -24,4 +24,11 @@ class ProductSpider(scrapy.Spider):
                 bathrooms : "",
                 size : ""
                 },
+                permit_number : "",
+                agent_name : "",
+                primary_image_url: "",
+                breadcrumbs : "",
+                amenities : [],
+                description : "",
+                property_image_urls : []
             }
